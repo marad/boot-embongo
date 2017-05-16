@@ -1,7 +1,7 @@
 (def +version+ "0.0.2-SNAPSHOT")
 (task-options!
   aot {:namespace '#{boot-embongo.core}}
-  pom {:project 'io.github.marad/boot-embongo
+  pom {:project 'marad/boot-embongo
        :version +version+})
 
 (set-env!
