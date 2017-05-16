@@ -8,7 +8,7 @@ It can be useful for tests and development.
 Add the dependency:
 
 ```clojure
-[io.github.marad/boot-embongo "0.0.2-SNAPSHOT"]
+[marad/boot-embongo "0.0.2-SNAPSHOT"]
 ```
 
 And import the `start-embongo` and `stop-embongo` tasks:
